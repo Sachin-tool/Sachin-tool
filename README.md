@@ -5,11 +5,10 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1DMnLiGpb6/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_limit_lesss) [!
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_limit_lesss) 
 
-[![Linkdin]
-[LinkedIn]https://www.linkedin.com/in/sachin-singh-322a05249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app(https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
-(https://x.com/@Ss2140749Singh)[!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-singh-322a05249)
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ss2140749@gmail.com)
 
